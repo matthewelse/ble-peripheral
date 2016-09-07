@@ -1,0 +1,28 @@
+{
+  "name": "ble-peripheral",
+  "version": "0.0.1",
+  "description": "Simple BLE Peripheral Wrapper",
+  "main": "ble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewelse/ble-peripheral.git"
+  },
+  "keywords": [
+    "ble",
+    "peripheral",
+    "wrapper"
+  ],
+  "author": "Matthew Else <matthewelse1997@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewelse/ble-peripheral/issues"
+  },
+  "dependencies": {
+    "mbed-js-ble": "matthewelse/mbed-js-ble#master",
+    "bleno": "~0.4.0"
+  },
+  "homepage": "https://github.com/matthewelse/ble-peripheral#readme"
+}
